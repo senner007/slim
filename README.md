@@ -24,3 +24,7 @@ Run this command to run the test suite
 	php composer.phar test
 
 That's it! Now go build something cool.
+
+
+run server by typing
+php -S localhost:4000
